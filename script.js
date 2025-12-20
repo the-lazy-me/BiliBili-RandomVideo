@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         B站播放列表随机播放
-// @namespace    https://space.bilibili.com/407410594
+// @namespace    https://github.com/the-lazy-me/BiliBili-RandomVideo
 // @version      2.0
-// @description  支持获取列表所有视频，自动随机播放下一集，基于 sid 唯一标识，支持记忆播放统计，导出统计报表 (CSV)。
+// @description  支持获取列表所有视频，自动随机播放下一集，基于 sid 唯一标识，支持记忆播放统计，导出统计报表 (CSV)。作者：Lazy (https://space.bilibili.com/407410594)
 // @author       Lazy
 // @match        *://www.bilibili.com/video/*
 // @grant        none
